@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>8b3223b8-81e2-4dbe-96b2-df77cdfc9512</TargetProject>
+    <FriendlyName>生日蛋糕</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\98022\AppData\Local\Temp\生日蛋糕_20210902.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
